@@ -1,0 +1,11 @@
+Nama			: Pasien
+Umur			: 35
+Tempat tinggal	: Tinggal
+Kelamin			: K
+Penyakit		: Umum
+Pembayaran		: Asuransi
+Bank			: 
+Nomor Rekening	: 0
+Nama Pemilik	: 
+Nomor BPJS		: 2311
+
